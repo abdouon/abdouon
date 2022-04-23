@@ -13,7 +13,7 @@ I have learned many other skills to help me build advanced project like data sci
 ## 🚀 Languages ,frameworks, libraries:
 <div style='display:flex; justify-content:space-around; width:100%;'>
 <img src="https://img.icons8.com/ios/150/ffffff/python.png" />
-<img src="https://img.icons8.com/ios/150/ffffff/django.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png" width='200'/>
 <img src="https://img.icons8.com/ios/150/ffffff/html.png" />
 <img src="https://img.icons8.com/ios/150/ffffff/javascript.png" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width='200'/>
