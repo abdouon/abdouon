@@ -16,4 +16,5 @@ I have learned many other skills to help me build advanced project like data sci
 <img src="https://img.icons8.com/ios/150/ffffff/django.png" />
 <img src="https://img.icons8.com/ios/150/ffffff/html.png" />
 <img src="https://img.icons8.com/ios/150/ffffff/javascript.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 </div>
