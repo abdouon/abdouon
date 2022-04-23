@@ -11,6 +11,4 @@ I have learned many other skills to help me build advanced project like data sci
 
 
 ## 🚀 Languages ,frameworks, libraries:
-<a style='background:white; border-radius:50%; padding:5px;'>
-<img src="https://img.icons8.com/material-outlined/24/000000/django.png" />
-</a>
+<img src="https://img.icons8.com/ios/50/000000/django.png" width="50px"/>
