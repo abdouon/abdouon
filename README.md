@@ -12,7 +12,7 @@ I have learned many other skills to help me build advanced project like data sci
 
 ## 🚀 Languages ,frameworks, libraries:
 <div style='display:flex; justify-content:space-around; width:100%;'>
-<img src="https://img.icons8.com/ios/150/ffffff/python.png" />
+<img src="https://img.icons8.com/plasticine/150/ffffff/python.png" />
   <img src="https://img.icons8.com/ios/150/ffffff/ruby.png" />
   <img src="https://img.icons8.com/plasticine/150/000000/bash.png" />
 <img src="https://img.icons8.com/ios/150/ffffff/html.png" />
