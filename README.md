@@ -24,7 +24,8 @@ I have learned many other skills to help me build advanced project like data sci
 <img src="https://img.icons8.com/ios/150/00000/django.png" />
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width='150' height='150'/>
-  <img src="https://embed.lottiefiles.com/animation/135693" />
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets6.lottiefiles.com/packages/lf20_fWd36IjnsR.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
   <img src="https://img.icons8.com/ios/150/00000/more.png" />
   
 </div>
