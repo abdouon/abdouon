@@ -24,6 +24,7 @@ I have learned many other skills to help me build advanced project like data sci
 <img src="https://img.icons8.com/ios/150/00000/django.png" />
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width='150' height='150'/>
+  <iframe src="https://embed.lottiefiles.com/animation/135693"></iframe>
   <img src="https://img.icons8.com/ios/150/00000/more.png" />
   
 </div>
