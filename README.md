@@ -25,7 +25,7 @@ I have learned many other skills to help me build advanced project like data sci
 <img src="https://img.icons8.com/ios/150/00000/django.png" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"  width='150' height='150' />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width='150' height='150'/>
- <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"  width='150' height='150'/> 
+ <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"  width='150' height='150'/> 
   <img src="https://img.icons8.com/ios/150/00000/more.png" />
   
 </div>
