@@ -1,7 +1,7 @@
 
 ## 🙋‍♂️ About Me
 
-👋 Hi, I’m @abdouon an avid programmer who has been coding for about 3 years now as freelancer, I'm experience in web development. I have built many projects for large and small businesses from scratch like e-commerce web app , brands website , with scalable structures to help my clients optimize their businesses easily with minimal fees using HTML, CSS ,python JavaScript, ruby and high level frameworks and libraries like Django, pandas, vue.js and more .to make very secure web apps, also I can work with thirty parts easily, even if this last has no API or SDK, I can build a custom one using automation skills like web scraping & automation.
+👋 Hi, I’m @abdouon an avid programmer who has been coding for about 4 years now as freelancer, I'm experience in web development. I have built many projects for large and small businesses from scratch like e-commerce web app , brands website , with scalable structures to help my clients optimize their businesses easily with minimal fees using HTML, CSS ,python JavaScript, ruby and high level frameworks and libraries like Django, pandas, vue.js and more .to make very secure web apps, also I can work with thirty parts easily, even if this last has no API or SDK, I can build a custom one using automation skills like web scraping & automation.
 I have learned many other skills to help me build advanced project like data science, microservices, digital marketing, automation, (CI, CD)…
 <br>
 — I will fully project manage your brief from start to finish
