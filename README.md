@@ -1,16 +1,19 @@
 
 ## 🙋‍♂️ About Me
 
-👋 Hi, I’m @abdouon an avid programmer who has been coding for about 4 years now as freelancer, I'm experience in web development. I have built many projects for large and small businesses from scratch like e-commerce web app , brands website , with scalable structures to help my clients optimize their businesses easily with minimal fees using HTML, CSS ,python JavaScript, ruby and high level frameworks and libraries like Django, pandas, vue.js and more .to make very secure web apps, also I can work with thirty parts easily, even if this last has no API or SDK, I can build a custom one using automation skills like web scraping & automation.
-I have learned many other skills to help me build advanced project in data science, microservices, digital marketing, automation, (CI, CD)…
-<br>
-— I will fully project manage your brief from start to finish
-<br>
-— I'll give you the plan before building
-<br>
-— I'll help you secure your project.
-<br>
-— I'll deliver your project in the deadline
+Hello, I'm @abdouon, a results-driven professional specializing about 4 years now  in data analytics, social media marketing, web development, hybrid mobile app development, and business management solutions. I offer comprehensive and profitable solutions to drive success for businesses.
+
+With my expertise in data analytics, I uncover valuable insights and growth opportunities by analyzing customer behavior, market trends, and performance metrics. This enables me to develop data-driven strategies that optimize business processes, maximize ROI, and drive profitability.
+
+Through strategic social media marketing, I enhance brand visibility and engage target audiences effectively. My compelling campaigns generate leads, drive website traffic, and foster customer loyalty, ensuring your brand stands out in the competitive digital landscape.
+
+In web development, I create custom, user-friendly websites that drive conversions and align with your brand identity. By incorporating SEO best practices, responsive design, and intuitive navigation, I ensure your website ranks well and performs optimally across all devices. Additionally, I offer business management solutions within web development, including team management and automated management systems, to streamline operations and increase efficiency .also I integrate CI/CD practices, ensuring efficient and high-quality project delivery. This automates the build, testing, and deployment processes, allowing for faster iterations and seamless integration of new features or updates..
+
+Furthermore, my specialization in hybrid mobile app development allows you to expand your reach and engage customers on multiple platforms. I build feature-rich applications that deliver a seamless user experience while aligning with your brand identity. I also provide business management solutions within the hybrid mobile app development realm, offering functionalities such as team management and automated management systems.
+
+By integrating these skills seamlessly, I create profitable solutions that drive business growth. I work collaboratively with you, tailoring solutions to meet your specific needs and delivering measurable results aligned with your objectives.
+
+Ready to optimize your digital presence and streamline business operations? Let's work together to integrate data analytics, social media marketing, web development, hybrid mobile app development, and business management solutions into a profitable solution for your business. Together, we'll unlock your full potential.
 
 
 ## 🚀 Languages ,frameworks, libraries:
