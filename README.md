@@ -24,6 +24,7 @@ Ready to optimize your digital presence and streamline business operations? Let'
 <img src="https://img.icons8.com/ios/150/00000/html.png" />
   
    <img src="https://img.icons8.com/ios/150/00000/css.png" />
+   <img src="https://img.icons8.com/ios/150/00000/tailwind.png" />
 <img src="https://img.icons8.com/ios/150/00000/javascript.png" />
 <img src="https://img.icons8.com/ios/150/00000/typescript.png" />
 <img src="https://img.icons8.com/ios/150/00000/django.png" />
