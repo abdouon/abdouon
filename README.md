@@ -30,7 +30,7 @@ Ready to optimize your digital presence and streamline business operations? Let'
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width='150' height='150'/>
  <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"  width='150' height='150'/> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/220px-TensorFlow_logo.svg.png"   height='150' /> 
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/120px-PyTorch_logo_black.svg.png"    /> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png?20200318225611"  height='150'  /> 
   
   
   <img src="https://img.icons8.com/ios/150/00000/more.png" />
