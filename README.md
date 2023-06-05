@@ -25,6 +25,7 @@ Ready to optimize your digital presence and streamline business operations? Let'
   
    <img src="https://img.icons8.com/ios/150/00000/css.png" />
 <img src="https://img.icons8.com/ios/150/00000/javascript.png" />
+<img src="https://img.icons8.com/ios/150/00000/typescript.png" />
 <img src="https://img.icons8.com/ios/150/00000/django.png" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"  width='150' height='150' />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width='150' height='150'/>
