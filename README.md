@@ -9,7 +9,7 @@ Hello, I'm @abdouon, a results-driven professional specializing for about 4 year
 <img src="https://img.icons8.com/ios/150/00000/python.png" style="background:blue; border:1px solid gray;"/>
   <img src="https://img.icons8.com/ios/150/00000/ruby.png" />
   <img src="https://img.icons8.com/plasticine/150/000000/bash.png" />
-  <img src="https://img.icons8.com/plasticine/150/000000/c.png" /><h1>++</h1>
+<h1 > <img src="https://img.icons8.com/plasticine/150/000000/c.png" />++</h1>
 <img src="https://img.icons8.com/ios/150/00000/html.png" />
   
    <img src="https://img.icons8.com/ios/150/00000/css.png" />
