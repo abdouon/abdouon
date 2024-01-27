@@ -4,7 +4,7 @@
 Hello, I'm @abdouon, a results-driven professional specializing for about 4 years now  as a software engineer 
 
 
-## 🚀 Languages ,frameworks, libraries:
+## 🚀 Languages,frameworks, libraries:
 <div style='display:flex; justify-content:space-around; width:100%; background:#000000; border-radius:17px; align-items:"center"' >
 <img src="https://img.icons8.com/ios/150/00000/python.png" style="background:blue; border:1px solid gray;"/>
   <img src="https://img.icons8.com/ios/150/00000/ruby.png" />
