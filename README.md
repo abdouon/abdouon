@@ -9,12 +9,14 @@ Hello, I'm @abdouon, a results-driven professional specializing for about 4 year
 <img src="https://img.icons8.com/ios/150/00000/python.png" style="background:blue; border:1px solid gray;"/>
   <img src="https://img.icons8.com/ios/150/00000/ruby.png" />
   <img src="https://img.icons8.com/plasticine/150/000000/bash.png" />
+  <img src="https://img.icons8.com/plasticine/150/000000/c.png" />
 <img src="https://img.icons8.com/ios/150/00000/html.png" />
   
    <img src="https://img.icons8.com/ios/150/00000/css.png" />
 <img src="https://img.icons8.com/ios/150/00000/javascript.png" />
 <img src="https://img.icons8.com/ios/150/00000/typescript.png" />
 <img src="https://img.icons8.com/ios/150/00000/django.png" />
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"  width='150' height='150' />
 
   
